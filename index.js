@@ -52,6 +52,13 @@ let tasks = [
     }
 ]
 
+app.get('/', (req, res) =>
+{
+    res.status(200).send({
+        message: `landing page, nothing done here`
+    })
+});
+
 //get all tasks
 app.get('/tasks', (req, res) =>
 {
