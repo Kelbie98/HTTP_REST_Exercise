@@ -1,5 +1,5 @@
 # HTTP_REST_Exercise
-This is a simple exercise practicing using REST with Node.js and Express with some simple input validation but not perfect.
+This is a simple exercise practicing using REST with Node.js and Express with some simple broad input validation.
 
 SETUP:
 1. install node.js
