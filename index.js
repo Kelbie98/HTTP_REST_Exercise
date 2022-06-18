@@ -55,7 +55,7 @@ let tasks = [
 app.get('/', (req, res) =>
 {
     res.status(200).send({
-        message: `landing page, nothing done here`
+        message: `This is a simple exercise practicing using REST with Node.js and Express with some simple input validation.`
     })
 });
 
